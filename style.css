@@ -134,4 +134,23 @@ ul{
     text-align: center;
     align-self: center;
     justify-self: center;
+} 
+
+.third-section{
+    background-color: #E5E7EB;
+    margin-bottom: 0;
+}
+
+.quote{
+    padding: 100px;
+    font-style: italic;
+    font-size: 36px;
+    font-weight: 200;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+.third-section h2{
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 60px;
 }
