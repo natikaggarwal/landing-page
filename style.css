@@ -77,12 +77,14 @@ ul{
     padding:0;
     font-size: 48px;
     color: #F9FAF8;
+    font-weight: bolder;
 }
 .signup p{
     margin: 0;
     font-size: 18px;
     color: #E5E7EB;
     padding:0;
+    font-weight: 300;
 }
 
 .header-link{
@@ -152,13 +154,16 @@ ul{
     font-style: italic;
     font-size: 36px;
     font-weight: 200;
-    padding-bottom: 0;
+    padding-bottom: 0px;
+    padding-top: 40px;
     margin-bottom: 0;
 }
 .third-section h2{
     display: flex;
     justify-content: flex-end;
     padding-right: 60px;
+    padding-bottom: 40px;
+    margin-top: 0;
 }
 
 
