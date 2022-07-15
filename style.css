@@ -9,6 +9,7 @@ body{
 
 .header{
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-between;
     padding-left: 100px;
     padding-right: 100px;
@@ -70,6 +71,7 @@ ul{
     padding-top: 5px;
     padding-bottom: 5px;
     font-weight: bold;
+    margin-top: 5px;
 }
 
 .signup h1{
